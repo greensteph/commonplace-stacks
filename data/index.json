@@ -1,0 +1,17 @@
+[
+  {
+    "id": "efa27924-7c8b-46c2-9443-b3d99324ec1f",
+    "url": "https://github.com/alliethu/leadership-os-starter",
+    "title": "Leadership OS starter",
+    "author": "alliethu",
+    "published_date": "2026-09-17",
+    "source": "GitHub",
+    "summary": "A Markdown-first repository template for maintaining leadership context, decisions, commitments, and ongoing work. It provides profiles, logs, templates, and focused AI skills for coaching, weekly reviews, product design, and technical analysis, designed for GitHub Copilot while remaining portable. Workflows emphasize evidence, privacy, and human approval rather than autonomous decisions or automated integrations.",
+    "type": "repo",
+    "category": "Leadership",
+    "tags": [],
+    "note": null,
+    "added": "2026-09-25T12:28:57.967837+00:00",
+    "status": "unread"
+  }
+]
