@@ -8,7 +8,10 @@
   "summary": "A Markdown-first repository template for maintaining leadership context, decisions, commitments, and ongoing work. It provides profiles, logs, templates, and focused AI skills for coaching, weekly reviews, product design, and technical analysis, designed for GitHub Copilot while remaining portable. Workflows emphasize evidence, privacy, and human approval rather than autonomous decisions or automated integrations.",
   "type": "repo",
   "category": "Leadership",
-  "tags": [],
+  "tags": [
+    "knowledge-management",
+    "ai-workflows"
+  ],
   "note": null,
   "added": "2026-09-25T12:28:57.967837+00:00",
   "status": "unread"
