@@ -1,0 +1,17 @@
+{
+  "id": "8f2a8433-0df2-4ea5-8c81-6650898acbf5",
+  "url": "https://github.com/southleft/figma-console-mcp",
+  "title": "Figma Console MCP Server",
+  "author": "southleft",
+  "published_date": "2025-10-05",
+  "source": "GitHub",
+  "summary": "An MCP server that connects AI assistants to Figma for design-system extraction, design creation and editing, debugging, and bidirectional design-token synchronization. It also supports accessibility checks, design-system audits, FigJam boards, and Figma Slides, with capabilities varying by connection mode.",
+  "type": "repo",
+  "category": "MCP",
+  "tags": [
+    "ai-workflows"
+  ],
+  "note": null,
+  "added": "2026-09-30T11:11:33.874954+00:00",
+  "status": "unread"
+}
