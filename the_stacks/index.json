@@ -1,5 +1,22 @@
 [
   {
+    "id": "db05faae-c00d-489d-b153-b4daa03701b8",
+    "url": "https://github.com/bradfrost/skills",
+    "title": "Brad Frost's Agent Skills",
+    "author": "Brad Frost",
+    "published_date": "2026-08-26",
+    "source": "GitHub",
+    "summary": "A collection of AI agent skills for design-system evaluation, product inspection, design-token architecture, and UI development. It also includes tools for setting AI usage boundaries, such as session caps, quiet hours, and definitive session endings, with enforcement capabilities documented for each supported platform.",
+    "type": "repo",
+    "category": "Skills",
+    "tags": [
+      "ai-workflows"
+    ],
+    "note": null,
+    "added": "2026-10-02T19:25:15.05668+00:00",
+    "status": "unread"
+  },
+  {
     "id": "8f2a8433-0df2-4ea5-8c81-6650898acbf5",
     "url": "https://github.com/southleft/figma-console-mcp",
     "title": "Figma Console MCP Server",
