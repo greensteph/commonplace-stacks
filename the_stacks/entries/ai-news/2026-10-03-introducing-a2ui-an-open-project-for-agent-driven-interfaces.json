@@ -1,0 +1,17 @@
+{
+  "id": "47ee86a7-9d02-4a7c-8008-3b85ffbb0661",
+  "url": "https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/",
+  "title": "Introducing A2UI: An open project for agent-driven interfaces",
+  "author": "Google A2UI Team",
+  "published_date": "2025-12-15",
+  "source": "developers.googleblog.com",
+  "summary": "Google introduces A2UI, an open-source declarative format for agents to generate and update interfaces across applications and UI frameworks. Agents send structured messages describing trusted components rather than executable code, leaving rendering, styling, and security controls with the host application. The article explains its integration with A2A and AG-UI and its differences from MCP Apps and platform-specific tools.",
+  "type": "article",
+  "category": "AI News",
+  "tags": [
+    "ai-workflows"
+  ],
+  "note": null,
+  "added": "2026-10-03T20:05:33.502995+00:00",
+  "status": "unread"
+}
