@@ -1,5 +1,20 @@
 [
   {
+    "id": "d97fedea-09df-4a22-8962-f65e238b8b5f",
+    "url": "https://slab-elements.dev/",
+    "title": "Slab · Headless Web Components",
+    "author": "Tony Ward",
+    "published_date": "2026-10-12",
+    "source": null,
+    "summary": "Slab is a library of 32 headless Web Components that handle keyboard interaction, focus, ARIA, forms, and events on top of native HTML elements. It works with frameworks or plain HTML and leaves visual styling to developers through CSS parts and states.",
+    "type": "article",
+    "category": "Engineering",
+    "tags": [],
+    "note": "Repo: https://github.com/ynotdraw/slab-elements",
+    "added": "2026-10-15T11:46:37.798962+00:00",
+    "status": "unread"
+  },
+  {
     "id": "47ee86a7-9d02-4a7c-8008-3b85ffbb0661",
     "url": "https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/",
     "title": "Introducing A2UI: An open project for agent-driven interfaces",
