@@ -28,7 +28,8 @@
     "category": "AI News",
     "tags": [
       "ai-workflows",
-      "generative-ui"
+      "generative-ui",
+      "ai-agents"
     ],
     "note": null,
     "added": "2026-10-03T20:05:33.502995+00:00",
@@ -62,7 +63,8 @@
     "type": "repo",
     "category": "MCP",
     "tags": [
-      "ai-workflows"
+      "ai-workflows",
+      "design-systems"
     ],
     "note": null,
     "added": "2026-09-30T11:11:33.874954+00:00",
