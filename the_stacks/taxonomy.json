@@ -19,8 +19,12 @@
     "UX"
   ],
   "tags": [
+    "a2ui",
+    "ai-agents",
     "ai-workflows",
+    "generative-ui",
     "github-copilot",
-    "knowledge-management"
+    "knowledge-management",
+    "web-components"
   ]
 }

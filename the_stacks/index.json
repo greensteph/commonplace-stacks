@@ -9,7 +9,9 @@
     "summary": "Slab is a library of 32 headless Web Components that handle keyboard interaction, focus, ARIA, forms, and events on top of native HTML elements. It works with frameworks or plain HTML and leaves visual styling to developers through CSS parts and states.",
     "type": "article",
     "category": "Engineering",
-    "tags": [],
+    "tags": [
+      "web-components"
+    ],
     "note": "Repo: https://github.com/ynotdraw/slab-elements",
     "added": "2026-10-15T11:46:37.798962+00:00",
     "status": "unread"
@@ -25,7 +27,8 @@
     "type": "article",
     "category": "AI News",
     "tags": [
-      "ai-workflows"
+      "ai-workflows",
+      "generative-ui"
     ],
     "note": null,
     "added": "2026-10-03T20:05:33.502995+00:00",

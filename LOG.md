@@ -2,6 +2,7 @@
 
 Newest first.
 
+- 2026-10-15 · Updated [Slab · Headless Web Components](https://slab-elements.dev/) — Engineering <!-- id:d97fedea-09df-4a22-8962-f65e238b8b5f -->
 - 2026-10-15 · Added [Slab · Headless Web Components](https://slab-elements.dev/) — Engineering <!-- id:d97fedea-09df-4a22-8962-f65e238b8b5f -->
 - 2026-10-03 · Added [Introducing A2UI: An open project for agent-driven interfaces](https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/) — AI News <!-- id:47ee86a7-9d02-4a7c-8008-3b85ffbb0661 -->
 - 2026-10-02 · Added [Brad Frost's Agent Skills](https://github.com/bradfrost/skills) — Skills <!-- id:db05faae-c00d-489d-b153-b4daa03701b8 -->
