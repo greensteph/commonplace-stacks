@@ -2,6 +2,7 @@
 
 Newest first.
 
+- 2026-10-22 · Added [Thistails Font Duo](https://creativemarket.com/panatypestudio/2509046-Thistails-Font-Duo) — Design <!-- id:f95bcb43-1f18-4664-abee-34637ac1993b -->
 - 2026-10-15 · Updated [Brad Frost's Agent Skills](https://github.com/bradfrost/skills) — Skills <!-- id:db05faae-c00d-489d-b153-b4daa03701b8 -->
 - 2026-10-15 · Updated [Figma Console MCP Server](https://github.com/southleft/figma-console-mcp) — MCP <!-- id:8f2a8433-0df2-4ea5-8c81-6650898acbf5 -->
 - 2026-10-15 · Updated [Figma Console MCP Server](https://github.com/southleft/figma-console-mcp) — MCP <!-- id:8f2a8433-0df2-4ea5-8c81-6650898acbf5 -->
