@@ -3,6 +3,7 @@
 Newest first.
 
 - 2026-10-25 · Updated [Introducing A2UI: An open project for agent-driven interfaces](https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/) — Design System <!-- id:47ee86a7-9d02-4a7c-8008-3b85ffbb0661 -->
+- 2026-10-25 · Updated [Introducing A2UI: An open project for agent-driven interfaces](https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/) — Design System <!-- id:47ee86a7-9d02-4a7c-8008-3b85ffbb0661 -->
 - 2026-10-25 · Updated [Half my design system metrics don't work anymore](https://learn.thedesignsystem.guide/p/half-my-design-system-metrics-dont?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6893d6d-8a75-429b-b90e-f64a944ce69e_1456x970.png&open=false) — Design System <!-- id:baa9afc0-6e4e-4b33-844a-e68045232202 -->
 - 2026-10-25 · Added [Half my design system metrics don't work anymore](https://learn.thedesignsystem.guide/p/half-my-design-system-metrics-dont?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6893d6d-8a75-429b-b90e-f64a944ce69e_1456x970.png&open=false) — Design <!-- id:baa9afc0-6e4e-4b33-844a-e68045232202 -->
 - 2026-10-22 · Added [Thorn Thistle Sans Family](https://creativemarket.com/CallieHegstrom/217699422-Thorn-Thistle-Sans-Family) — Design <!-- id:c79c0a3d-910a-4291-b2aa-b7b32536e617 -->
