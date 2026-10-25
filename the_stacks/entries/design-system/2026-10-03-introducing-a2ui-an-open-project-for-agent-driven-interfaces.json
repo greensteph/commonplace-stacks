@@ -7,11 +7,12 @@
   "source": "developers.googleblog.com",
   "summary": "Google introduces A2UI, an open-source declarative format for agents to generate and update interfaces across applications and UI frameworks. Agents send structured messages describing trusted components rather than executable code, leaving rendering, styling, and security controls with the host application. The article explains its integration with A2A and AG-UI and its differences from MCP Apps and platform-specific tools.",
   "type": "article",
-  "category": "AI News",
+  "category": "Design System",
   "tags": [
-    "ai-workflows"
+    "ai-workflows",
+    "generative-ui",
+    "ai-agents"
   ],
   "note": null,
-  "added": "2026-10-03T20:05:33.502995+00:00",
-  "status": "unread"
+  "added": "2026-10-03T20:05:33.502995+00:00"
 }
