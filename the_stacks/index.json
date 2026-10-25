@@ -8,7 +8,7 @@
     "source": "learn.thedesignsystem.guide",
     "summary": "Reviews which design system metrics to keep, retire, or adapt as AI agents become system users. Recommends tracking conformance, agent adherence, accessibility, and cost per shippable output rather than relying on component counts or downloads. Outlines how to build repeatable, task-based evaluations that assess output quality against design system rules.",
     "type": "article",
-    "category": "Design",
+    "category": "Design System",
     "tags": [
       "design-systems",
       "ai-agents",
