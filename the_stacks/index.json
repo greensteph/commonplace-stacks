@@ -1,5 +1,25 @@
 [
   {
+    "id": "baa9afc0-6e4e-4b33-844a-e68045232202",
+    "url": "https://learn.thedesignsystem.guide/p/half-my-design-system-metrics-dont?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6893d6d-8a75-429b-b90e-f64a944ce69e_1456x970.png&open=false",
+    "title": "Half my design system metrics don't work anymore",
+    "author": "Romina Kavcic",
+    "published_date": "2026-10-24",
+    "source": "learn.thedesignsystem.guide",
+    "summary": "Reviews which design system metrics to keep, retire, or adapt as AI agents become system users. Recommends tracking conformance, agent adherence, accessibility, and cost per shippable output rather than relying on component counts or downloads. Outlines how to build repeatable, task-based evaluations that assess output quality against design system rules.",
+    "type": "article",
+    "category": "Design",
+    "tags": [
+      "design-systems",
+      "ai-agents",
+      "ai-workflows",
+      "design-metrics",
+      "ai-evals"
+    ],
+    "note": null,
+    "added": "2026-10-25T11:24:49.079966+00:00"
+  },
+  {
     "id": "c79c0a3d-910a-4291-b2aa-b7b32536e617",
     "url": "https://creativemarket.com/CallieHegstrom/217699422-Thorn-Thistle-Sans-Family",
     "title": "Thorn Thistle Sans Family",
@@ -14,8 +34,7 @@
       "typography"
     ],
     "note": null,
-    "added": "2026-10-22T23:54:30.269722+00:00",
-    "status": "unread"
+    "added": "2026-10-22T23:54:30.269722+00:00"
   },
   {
     "id": "f95bcb43-1f18-4664-abee-34637ac1993b",
@@ -32,8 +51,7 @@
       "fonts"
     ],
     "note": null,
-    "added": "2026-10-22T23:53:55.79629+00:00",
-    "status": "unread"
+    "added": "2026-10-22T23:53:55.79629+00:00"
   },
   {
     "id": "d97fedea-09df-4a22-8962-f65e238b8b5f",
@@ -49,8 +67,7 @@
       "web-components"
     ],
     "note": "Repo: https://github.com/ynotdraw/slab-elements",
-    "added": "2026-10-15T11:46:37.798962+00:00",
-    "status": "unread"
+    "added": "2026-10-15T11:46:37.798962+00:00"
   },
   {
     "id": "47ee86a7-9d02-4a7c-8008-3b85ffbb0661",
@@ -68,8 +85,7 @@
       "ai-agents"
     ],
     "note": null,
-    "added": "2026-10-03T20:05:33.502995+00:00",
-    "status": "unread"
+    "added": "2026-10-03T20:05:33.502995+00:00"
   },
   {
     "id": "db05faae-c00d-489d-b153-b4daa03701b8",
@@ -86,8 +102,7 @@
       "agent-skills"
     ],
     "note": null,
-    "added": "2026-10-02T19:25:15.05668+00:00",
-    "status": "unread"
+    "added": "2026-10-02T19:25:15.05668+00:00"
   },
   {
     "id": "8f2a8433-0df2-4ea5-8c81-6650898acbf5",
@@ -105,8 +120,7 @@
       "figma"
     ],
     "note": null,
-    "added": "2026-09-30T11:11:33.874954+00:00",
-    "status": "unread"
+    "added": "2026-09-30T11:11:33.874954+00:00"
   },
   {
     "id": "efa27924-7c8b-46c2-9443-b3d99324ec1f",
@@ -124,7 +138,6 @@
       "github-copilot"
     ],
     "note": null,
-    "added": "2026-09-25T12:28:57.967837+00:00",
-    "status": "unread"
+    "added": "2026-09-25T12:28:57.967837+00:00"
   }
 ]
