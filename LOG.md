@@ -2,6 +2,7 @@
 
 Newest first.
 
+- 2026-10-25 · Added [Beyone the Happy Path: Josh Clark & Veronica Veronika on "Sentient Design"](https://www.youtube.com/watch?v=-ty0Ww0azjo) — AI News <!-- id:21eb110f-5044-4f35-bff3-3ab077b8d1b4 -->
 - 2026-10-25 · Updated [Introducing A2UI: An open project for agent-driven interfaces](https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/) — Design System <!-- id:47ee86a7-9d02-4a7c-8008-3b85ffbb0661 -->
 - 2026-10-25 · Updated [Introducing A2UI: An open project for agent-driven interfaces](https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/) — Design System <!-- id:47ee86a7-9d02-4a7c-8008-3b85ffbb0661 -->
 - 2026-10-25 · Updated [Introducing A2UI: An open project for agent-driven interfaces](https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/) — Design System <!-- id:47ee86a7-9d02-4a7c-8008-3b85ffbb0661 -->
