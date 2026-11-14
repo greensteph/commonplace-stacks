@@ -1,5 +1,22 @@
 [
   {
+    "id": "73252fdb-d3b2-43a2-a012-7dc46400f7bb",
+    "url": "https://ds-contracts-playground.pages.dev/playground?example=button",
+    "title": "Contract Playground",
+    "author": "TJ Pitre",
+    "published_date": null,
+    "source": "ds-contracts-playground.pages.dev",
+    "summary": "An interactive browser playground for importing designs or code, proposing component contracts, and editing them under schema governance. It runs the underlying contract engine to generate React, HTML, and Figma output.",
+    "type": "article",
+    "category": "Design System",
+    "tags": [
+      "design-systems",
+      "component-contracts"
+    ],
+    "note": null,
+    "added": "2026-11-14T11:11:51.790462+00:00"
+  },
+  {
     "id": "21eb110f-5044-4f35-bff3-3ab077b8d1b4",
     "url": "https://www.youtube.com/watch?v=-ty0Ww0azjo",
     "title": "Beyone the Happy Path: Josh Clark & Veronica Veronika on \"Sentient Design\"",
