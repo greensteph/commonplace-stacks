@@ -1,0 +1,18 @@
+{
+  "id": "02b355a8-d69a-42c0-b70b-4f9fb3ff9fdd",
+  "url": "https://github.com/polar-bear-org/claude-skills",
+  "title": "Claude Skills Marketplace — Themed Skill Packs for Claude Code and Claude.ai",
+  "author": "90n",
+  "published_date": "2026-08-30",
+  "source": "GitHub",
+  "summary": "A repository of free, themed agent skill packs for Claude Code and Claude.ai covering HR, leadership, recruiting, customer service, product and project management, training, and design. Packs bundle task-specific SKILL.md instructions with shared reference files and can be installed as Claude Code plugins or downloaded as individual skills for Claude.ai.",
+  "type": "repo",
+  "category": "Skills",
+  "tags": [
+    "agent-skills",
+    "ai-workflows",
+    "ai-agents"
+  ],
+  "note": null,
+  "added": "2026-11-20T17:36:36.8252+00:00"
+}

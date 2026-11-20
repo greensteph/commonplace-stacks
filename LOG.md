@@ -2,6 +2,7 @@
 
 Newest first.
 
+- 2026-11-20 · Added [Claude Skills Marketplace — Themed Skill Packs for Claude Code and Claude.ai](https://github.com/polar-bear-org/claude-skills) — Skills <!-- id:02b355a8-d69a-42c0-b70b-4f9fb3ff9fdd -->
 - 2026-11-19 · Added [Minimal Phone 2 – Minimal Company](https://minimalcompany.com/pages/minimal-phone-2?view=minimal-phone-2) — Shopping <!-- id:9266f3b4-b41f-4aa3-9bad-2d556baea875 -->
 - 2026-11-14 · Added [Contract Playground](https://ds-contracts-playground.pages.dev/playground?example=button) — Design System <!-- id:73252fdb-d3b2-43a2-a012-7dc46400f7bb -->
 - 2026-10-25 · Added [Beyone the Happy Path: Josh Clark & Veronica Veronika on "Sentient Design"](https://www.youtube.com/watch?v=-ty0Ww0azjo) — AI News <!-- id:21eb110f-5044-4f35-bff3-3ab077b8d1b4 -->
